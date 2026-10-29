@@ -53,14 +53,14 @@
     </td>
     <td width="50%" valign="top" style="background-color: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 25px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h3 style="margin-top: 0; color: #c9d1d9; display: flex; align-items: center; font-size: 20px;">
-        <span style="font-size: 24px; margin-right: 10px;">🧬</span> 
-        Poultry Antioxidant Statistical Analysis
+        <span style="font-size: 24px; margin-right: 10px;">🌿</span> 
+        Botanical Antioxidant & Mechanistic Profiling
       </h3>
       <p style="color: #8b949e; font-size: 14px; margin-bottom: 10px;">
-        <strong>Tech Stack:</strong> R • Advanced Statistical Modeling • Data Visualization
+        <strong>Tech Stack:</strong> R • Inferential Statistics • Algorithmic Modeling • ggplot2
       </p>
       <p style="color: #c9d1d9; font-size: 15px; line-height: 1.6; margin-bottom: 20px;">
-        Rigorous multivariate statistical modeling and chemometric analysis of complex biological datasets. Focuses on data transformation, normality testing, and reproducible workflows. Archived with a Zenodo DOI for FAIR data compliance.
+        Automated inferential pipeline profiling redox mechanisms (DPPH/FRAP) of Nigerian botanicals. Implements assumption testing, parametric (ANOVA/Tukey) and non-parametric (Kruskal-Wallis/Dunn's) post-hoc analyses, and Compact Letter Display (CLD) mapping. Features a custom Z-score algorithm to classify dominant biochemical pathways (HAT vs. SET) and maps them to physiological proxies.
       </p>
       <p style="margin-top: 15px;">
         <a href="https://github.com/ibikunlestephen/Poultry-Antioxidant-Analysis" style="text-decoration: none;">
@@ -89,8 +89,8 @@
 <p align="center">
   <strong style="color: #c9d1d9; font-size: 16px;">Data Science & Modeling</strong><br><br>
   <img src="https://img.shields.io/badge/Machine_Learning-FF9900?style=flat-square" alt="Machine Learning" style="margin: 0 5px;">
-  <img src="https://img.shields.io/badge/Statistical_Modeling-00599C?style=flat-square" alt="Statistical Modeling" style="margin: 0 5px;">
-  <img src="https://img.shields.io/badge/Chemometrics-4CAF50?style=flat-square" alt="Chemometrics" style="margin: 0 5px;">
+  <img src="https://img.shields.io/badge/Inferential_Statistics-00599C?style=flat-square" alt="Inferential Statistics" style="margin: 0 5px;">
+  <img src="https://img.shields.io/badge/Algorithmic_Modeling-4CAF50?style=flat-square" alt="Algorithmic Modeling" style="margin: 0 5px;">
 </p>
 
 <p align="center">
